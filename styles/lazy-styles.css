@@ -1,5 +1,5 @@
 /* add global styles that can be loaded post LCP here */
-.full-bleed {
+main .section.full-bleed {
   background-color: aquamarine;
   width: 100%;
 }
