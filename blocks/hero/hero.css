@@ -9,7 +9,7 @@ main .hero-container {
 .hero {
   position: relative;
   padding: 32px;
-  min-height: 300px;
+  aspect-ratio: 1920 / 900;
 }
 
 .hero h1 {
