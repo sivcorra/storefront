@@ -1,5 +1,7 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1LJOnPHS0VyR3ze3jwdWOFhCd2mFDmBI9
+  /:
+    url: https://content.da.live/sivcorra/storefront/
+    type: markup
 
 folders:
   /products/: /products/default
